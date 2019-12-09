@@ -1,6 +1,6 @@
 # Official WebSite Mahinda Rajapaksa
 
-> ### Base project made with much  :heart: . Contains CRUD, official style guide, patterns, etc.
+<!-- > ### Base project made with much  :heart: . Contains CRUD, official style guide, patterns, etc. -->
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9d190a60fc864060ac054ba17a4e92e4)](https://www.codacy.com/app/Ismaestro/angular5-example-app?utm_source=github.com&utm_medium=referral&utm_content=Ismaestro/angular5-example-app&utm_campaign=badger)
 
@@ -14,8 +14,8 @@
 
 <!-- [![Join the chat at https://gitter.im/angular5-example-app/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular5-example-app/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
-[![GitHub forks](https://img.shields.io/github/forks/ismaestro/angular5-example-app.svg?style=social&label=Fork)](https://github.com/PM-Office/Mahinda-Rajapaksa-Web/fork)
-[![GitHub stars](https://img.shields.io/github/stars/ismaestro/angular5-example-app.svg?style=social&label=Star)](https://github.com/PM-Office/Mahinda-Rajapaksa-Web)
+[![GitHub forks](https://img.shields.io/github/forks/PM-Office/Mahinda-Rajapaksa-Web.svg?style=social&label=Fork)](https://github.com/PM-Office/Mahinda-Rajapaksa-Web/fork)
+[![GitHub stars](https://img.shields.io/github/stars/PM-Office/Mahinda-Rajapaksa-Web.svg?style=social&label=Star)](https://github.com/PM-Office/Mahinda-Rajapaksa-Web)
 <!-- 
 ### DEMO
 
