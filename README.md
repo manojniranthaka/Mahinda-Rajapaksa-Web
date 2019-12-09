@@ -14,8 +14,8 @@
 
 <!-- [![Join the chat at https://gitter.im/angular5-example-app/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular5-example-app/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
-[![GitHub forks](https://img.shields.io/github/forks/ismaestro/angular5-example-app.svg?style=social&label=Fork)](https://github.com/ismaestro/angular5-example-app/fork)
-[![GitHub stars](https://img.shields.io/github/stars/ismaestro/angular5-example-app.svg?style=social&label=Star)](https://github.com/ismaestro/angular5-example-app)
+[![GitHub forks](https://img.shields.io/github/forks/ismaestro/angular5-example-app.svg?style=social&label=Fork)](https://github.com/PM-Office/Mahinda-Rajapaksa-Web/fork)
+[![GitHub stars](https://img.shields.io/github/stars/ismaestro/angular5-example-app.svg?style=social&label=Star)](https://github.com/PM-Office/Mahinda-Rajapaksa-Web)
 <!-- 
 ### DEMO
 
@@ -103,7 +103,7 @@ This repo is using an API which is [a minimal app](https://github.com/Ismaestro/
 Thanks to all contributors and their support! -->
 
 ## License
- * Priministers Office Temple Trees 
+ * Priminister's Office Temple Trees 
  * MIT
 <!-- 
 Enjoy :metal:
